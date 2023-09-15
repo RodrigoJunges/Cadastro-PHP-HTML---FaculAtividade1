@@ -1,4 +1,4 @@
-# FaculAtividade1 - Cadastro de Música PHP
+Cadastro de Música PHP + HTML
 
 Esse projeto é bem simples, uma atividade inicial da cadeira de BACK END na faculdade.
 .
